@@ -8,3 +8,7 @@ body div {
 h1 {
   color: red;
 }
+
+.block__item {
+  color: red;
+}
